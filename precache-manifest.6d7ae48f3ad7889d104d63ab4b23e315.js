@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "741c092ca04e5b11903aff08186be8d9",
+    "revision": "25f09d9b430c8c49dc17897a0f370cd9",
     "url": "https://kaijadsk.github.io/csb-0sccrk/index.html"
   },
   {
-    "revision": "b22a4516ade0a19ef5cc",
+    "revision": "0851373c63bc9457e70f",
     "url": "https://kaijadsk.github.io/csb-0sccrk/static/css/main.7a02aca6.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://kaijadsk.github.io/csb-0sccrk/static/js/2.fdedbca9.chunk.js"
   },
   {
-    "revision": "b22a4516ade0a19ef5cc",
-    "url": "https://kaijadsk.github.io/csb-0sccrk/static/js/main.d4f486bc.chunk.js"
+    "revision": "0851373c63bc9457e70f",
+    "url": "https://kaijadsk.github.io/csb-0sccrk/static/js/main.8f5f001d.chunk.js"
   },
   {
     "revision": "f716850a3eb707bb4c32",
