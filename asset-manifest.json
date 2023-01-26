@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "https://.github.io/csb-0sccrk/static/css/main.7a02aca6.chunk.css",
+    "main.js": "https://.github.io/csb-0sccrk/static/js/main.806c454c.chunk.js",
+    "main.js.map": "https://.github.io/csb-0sccrk/static/js/main.806c454c.chunk.js.map",
+    "runtime~main.js": "https://.github.io/csb-0sccrk/static/js/runtime~main.5479349f.js",
+    "runtime~main.js.map": "https://.github.io/csb-0sccrk/static/js/runtime~main.5479349f.js.map",
+    "static/js/2.fdedbca9.chunk.js": "https://.github.io/csb-0sccrk/static/js/2.fdedbca9.chunk.js",
+    "static/js/2.fdedbca9.chunk.js.map": "https://.github.io/csb-0sccrk/static/js/2.fdedbca9.chunk.js.map",
+    "index.html": "https://.github.io/csb-0sccrk/index.html",
+    "precache-manifest.8082a5c98974084e0f526fc03c6cf068.js": "https://.github.io/csb-0sccrk/precache-manifest.8082a5c98974084e0f526fc03c6cf068.js",
+    "service-worker.js": "https://.github.io/csb-0sccrk/service-worker.js",
+    "static/css/main.7a02aca6.chunk.css.map": "https://.github.io/csb-0sccrk/static/css/main.7a02aca6.chunk.css.map",
+    "static/media/gossip.mp3": "https://.github.io/csb-0sccrk/static/media/gossip.bb0801d1.mp3"
+  }
+}
